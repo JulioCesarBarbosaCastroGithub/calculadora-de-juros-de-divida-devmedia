@@ -1,8 +1,8 @@
 import entradaDados from 'readline-sync';
 
-console.log("\nAplicação de Juros: \n");
+console.log("\nAplicação de Juros:\n");
 
-let valorDevido = entradaDados.question("Informe o valor devido: ");
+let valorDevido = entradaDados.question("Informe o valor devido: R$ ");
 
 let diasEmAtraso = entradaDados.question("\nInforme quantos dias se passaram desde o vencimento do boleto: ");
 
