@@ -1,0 +1,24 @@
+{
+  "name": "calculadora-de-juros-de-divida-devmedia",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioCesarBarbosaCastroGithub/calculadora-de-juros-de-divida-devmedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioCesarBarbosaCastroGithub/calculadora-de-juros-de-divida-devmedia/issues"
+  },
+  "homepage": "https://github.com/JulioCesarBarbosaCastroGithub/calculadora-de-juros-de-divida-devmedia#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
